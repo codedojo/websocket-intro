@@ -4,5 +4,8 @@
   "private": true,
   "scripts": {
     "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.8.0"
   }
 }
